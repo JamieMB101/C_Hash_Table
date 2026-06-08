@@ -14,3 +14,8 @@ Make sure you have `gcc` and `make` installed on your system (standard on macOS/
 2. Open your terminal in the project root folder and compile the project:
    ```bash
    make
+
+### Running the Application
+To launch the spellchecker, execute the binary from the root folder:
+```bash
+./Build/spellcheck
